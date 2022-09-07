@@ -4,5 +4,6 @@ build
 .vscode/
 CMakeLists.txt.user
 cmake-build-debug/
+build*
 cmake-build-release/
 .idea/
